@@ -1,2 +1,2 @@
-# Kaggle_Titanic_LogisticRegression
+# Kaggle Titanic - Logistic Regression
  
